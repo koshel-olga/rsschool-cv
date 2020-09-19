@@ -1,2 +1,2 @@
 # rsschool-cv
-# [https://koshel-olga.github.io/rsschool-cv/cv] (https://koshel-olga.github.io/rsschool-cv/cv)
+# [Curriculum Vitae] (https://koshel-olga.github.io/rsschool-cv/cv)

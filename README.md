@@ -1,3 +1,3 @@
 # rsschool-cv
 
-**Task "Markdown & Git"**
+**Task "HTML, CSS & Git Basics"**
